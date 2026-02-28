@@ -1,0 +1,11 @@
+google-auth-oauthlib==1.2.4
+google-auth-httplib2==0.3.0
+google-api-python-client==2.190.0
+playwright==1.58.0
+playwright-stealth==2.0.2
+python-dotenv==1.0.0
+schedule==1.2.0
+selenium==4.41.0
+webdriver-manager==4.0.1
+pyperclip==1.11.0
+faker==40.4.0

@@ -1,0 +1,22 @@
+# Credentials and secrets
+.env
+credentials.json
+token.json
+whatsapp_session/
+linkedin_session/
+*.session
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs with sensitive data
+Logs/*.log

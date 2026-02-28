@@ -1,0 +1,24 @@
+---
+type: task
+source: inbox
+priority: high
+created: 2026-02-27 23:29:33
+status: pending
+---
+
+# Task: test_urgent.txt
+
+## Original File
+test_urgent.txt
+
+## Content
+Test file for file watcher
+
+
+## Actions
+- [ ] Review content
+- [ ] Take appropriate action
+- [ ] Mark as complete
+
+---
+Created by File Watcher
